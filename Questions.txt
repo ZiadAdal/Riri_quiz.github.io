@@ -1,0 +1,104 @@
+Q1: When was Lewis Hamilton born ?
+A:may ,8,1985
+B:December ,8,1985
+C:January ,7,1985*
+C:may ,30,2002 <:
+
+Q2:Which team won the Constructors champ on 2007 ?
+A: Ferrari*
+B: Renault
+C:Mclaren
+C:Redbull
+
+Q3: Which circuit has hosted the most Formula 1 Grand Prix races?
+A: Circuit de Monaco
+B: Silverstone Circuit
+C: Monza Circuit*
+C: Circuit de Spa-Francorchamps
+
+Q4: Who was the youngest driver to win a Formula 1 Grand Prix race?
+A: Max Verstappen*
+B: Sebastian Vettel
+C: Fernando Alonso
+C: Charles Leclerc
+
+Q5:Which team holds the record for the most wins in a season?
+A: Ferrari
+B: Mercedes
+C: Red Bull*
+C: McLaren
+
+
+///// HAMILTON RECORDS ////////////
+
+Q1: In which year did Lewis Hamilton win his first Formula 1 World Championship?
+A: 2008*
+B: 2011
+C: 2009
+D: 2007
+
+Q1: Which circuit has Lewis Hamilton won the most races at?
+A: Silverstone Circuit
+B: Circuit de Spa-Francorchamps
+C: Circuit de Monaco
+D: Hungaroring*
+
+Q1:  In which year did Lewis Hamilton break Michael Schumacher's record for the most pole positions in Formula 1 history?
+A: 2019
+B: 2020
+C: 2018
+D: 2017*
+
+Q1: Lewis Hamilton has won the most races in Formula 1 history at which Grand Prix?
+A:  British Grand Prix
+B:  Portuguese Grand Prix* 
+C:  Hungarian Grand Prix
+D:  Canadian Grand Prix
+
+Q : Which driver has Lewis Hamilton beaten the most times in Formula 1 history?
+A:  Sebastian Vettel
+B:  Fernando Alonso*
+C:  Nico Rosberg
+D:  Kimi Raikkonen
+
+Q4: Lewis Hamilton has won the most races at which circuit outside of Europe?
+A. Circuit of the Americas*
+B. Sepang International Circuit
+C. Suzuka Circuit
+D. Circuit Gilles Villeneuve*
+
+//////// Quotes said by Lewis or no ///////
+
+Quote 1: -> When I was really young, I busted my nose when I was racing. The first thing my dad asked me was: ‘Are you OK?’ I said, ‘Can you fix the car for tomorrow?’ And I won the race the next day true
+Quote 2:I don’t aspire to be like other drivers – I aspire to be unique in my own way.”true
+Quote 3:“What people tend to forget is the journey that I had getting to Formula One. There were plenty of years where I had to learn about losing and having bad races.” true
+Quote 4: As a driver, your target is always to be with the most competitive team possible. false
+
+
+/////////  Circuits ///////////
+image src="US.png"
+A.RED BULL RING
+B.HUNGARORING
+C.Circuit GILLED VILLENEUVE
+D.Circuit of the AMERICAs*
+
+image src="Silverstone.png"
+A.Circuit de Catalunya
+B.Circuit Silverstone*
+C.Circuit Zandvoort
+D.Baku city Circuit
+
+image src="Saudi_Circuit.png"
+A.LAS VEGAS street Circuit
+B.LOSAIL international Circuit
+C.JEDDAH street Circuit*
+D.BAHRAIN international Circuit
+
+image src="SaoPauolo.png"
+A.YAS MARINA Circuit
+B.Circuit De MONACO
+C.SHANGHAI international Circuit
+D. Interlagos Circuit*
+
+
+
